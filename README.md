@@ -44,10 +44,10 @@
 
 [![GitHub](https://skillicons.dev/icons?i=github&perline=3)](https://github.com/importbinayak)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=3)](https://linkedin.com/in/binayak-dhungana)
-[![Facebook](https://skillicons.dev/icons?i=facebook&perline=3)](https://fb.com/profile.php?id=100015085275074)
+[![Facebook](https://go-skill-icons.vercel.app/api/icons?i=facebook&perline=3)](https://fb.com/thedhungana)
 [![Instagram](https://skillicons.dev/icons?i=instagram&perline=3)](https://instagram.com/thedhungana)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logoColor=white)](https://binayakdhungana.com.np/)
-[![Twitter](https://skillicons.dev/icons?i=twitter&perline=3)](https://github.com/importbinayak)
+[![Reddit](https://go-skill-icons.vercel.app/api/icons?i=reddit&perline=3)](https://www.reddit.com/user/be_nayak/)
+[![Twitter](https://skillicons.dev/icons?i=twitter&perline=3)](https://x.com/thedhungana)
 
 ### 💻 Skills
 
@@ -56,7 +56,6 @@
 [![C](https://skillicons.dev/icons?i=c&theme=light)](https://en.cppreference.com/w/c/language)
 [![MYSQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://en.cppreference.com/w/c/language)
 [![Anaconda](https://skillicons.dev/icons?i=anaconda&theme=light)](https://www.python.org)
-
 [![HTML](https://skillicons.dev/icons?i=html&perline=3)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css&perline=3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JS](https://skillicons.dev/icons?i=js&perline=3)](https://en.cppreference.com/w/c/language)
@@ -67,8 +66,8 @@
 [![postman](https://skillicons.dev/icons?i=postman&perline=3)](https://www.python.org)
 [![Figma](https://skillicons.dev/icons?i=figma&perline=3)]([https://www.python.org](https://www.figma.com/))
 [![sqlite](https://skillicons.dev/icons?i=sqlite&perline=3)](https://en.cppreference.com/w/c/language)
-[![WordPress](https://skillicons.dev/icons?i=wordpress&perline=3)](https://en.cppreference.com/w/c/language)
-[![Oracle](https://skillicons.dev/icons?i=oracle&perline=3)](https://github.com/)
+[![WordPress](https://skillicons.dev/icons?i=wordpress&perline=3)](https://wordpress.com)
+[![Oracle](https://go-skill-icons.vercel.app/api/icons?i=oracle&perline=3)]()
 <!-- [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) -->
 [![GIT](https://skillicons.dev/icons?i=git&perline=3)](https://git-scm.com/)
 [![Github](https://skillicons.dev/icons?i=github&perline=3)](https://github.com/)
@@ -88,12 +87,12 @@
 <h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
 
 <p align="center"> <img  width="900em" alt="importbinayak's Github comitte snake"  src="https://github.com/VikashPR/VikashPR/blob/output/github-contribution-grid-snake-dark.svg" /> </p> 
-<h4 align="center">Isometric view of contributions in the last year.</h4>
+<!--<h4 align="center">Isometric view of contributions in the last year.</h4>
 	  
-<p align="center">
+<!--<p align="center">
 	<a href="./profile-3d-contrib/profile-night-green.svg">
 		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
 	</a>
-</p>
+</p>-->
 <br/>
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=To%20know,%20is%20to%20know%20that%20you%20know%20nothing.&author=Wise%20man" /> </p>
