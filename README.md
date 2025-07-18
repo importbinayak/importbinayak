@@ -8,7 +8,7 @@
 
 <!-- <h3 align="center">A passionate WEB/APP developer from Nepal.</h3> -->
 
-<img align="right" alt="coding" width="350" src="https://github.com/importbinayak/importbinayak/blob/main/haha.gif" height="200">
+<img align="right" alt="coding" width="1000" src="https://github.com/importbinayak/importbinayak/blob/main/haha.gif" height="200">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=importbinayak&label=Profile%20views&color=0e75b6&style=flat" alt="importbinayak" /> </p>
 
 - 💼 Also working as a **Django Developer at [Lunar I.T. Solution Pvt. Ltd.](https://github.com/Lunar-IT-Solution)** 
