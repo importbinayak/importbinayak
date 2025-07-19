@@ -17,7 +17,7 @@
 <img align="right" alt="coding" width="350" src="https://github.com/importbinayak/importbinayak/blob/main/haha.gif" height="200">
 
 
-- 💼 Also working as a **Django Developer at [Lunar I.T. Solution Pvt. Ltd.](https://github.com/Lunar-IT-Solution)** 
+- 💼 Working as a **Django Developer at [Lunar I.T. Solution Pvt. Ltd.](https://github.com/Lunar-IT-Solution)** 
 
 - 👨‍💻 My official website [binayakdhungana.com.np](binayakdhungana.com.np)
 
