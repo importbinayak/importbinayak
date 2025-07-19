@@ -1,13 +1,18 @@
 
-<h1>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=FFFFFF&background=301B5D00&vCenter=true&width=435&lines=I'm+Binayak+Dhungana!">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&background=301B5D00&vCenter=true&width=435&lines=I'm+Binayak+Dhungana!">
-</h1>
+
 
 <!-- <h3 align="center">A passionate WEB/APP developer from Nepal.</h3> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=importbinayak&label=Profile%20views&color=0e75b6&style=flat" alt="importbinayak" /> </p>
 <div>
+
+
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=FFFFFF&background=301B5D00&vCenter=true&width=435&lines=I'm+Binayak+Dhungana!">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&background=301B5D00&vCenter=true&width=435&lines=I'm+Binayak+Dhungana!">
+	  <img alt="IMAGE" src="https://github.com/importbinayak/importbinayak/blob/main/haha.gif">
+</h1>
+ 
 <img align="right" alt="coding" width="1000" src="https://github.com/importbinayak/importbinayak/blob/main/hehe.png" height="478"><br>
 </div>
 
