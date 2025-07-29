@@ -64,29 +64,29 @@
 [![Python](https://skillicons.dev/icons?i=py&theme=light)](https://www.python.org)
 [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
 [![C](https://skillicons.dev/icons?i=c&theme=light)](https://en.cppreference.com/w/c/language)
-[![MYSQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://en.cppreference.com/w/c/language)
-[![Anaconda](https://skillicons.dev/icons?i=anaconda&theme=light)](https://www.python.org)
+[![MYSQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://www.mysql.com/)
+[![Anaconda](https://skillicons.dev/icons?i=anaconda&theme=light)](https://anaconda.org/)
 [![HTML](https://skillicons.dev/icons?i=html&perline=3)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css&perline=3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JS](https://skillicons.dev/icons?i=js&perline=3)](https://en.cppreference.com/w/c/language)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap&perline=3)](https://www.python.org)
-[![Tailwind](https://skillicons.dev/icons?i=tailwind&perline=3)](https://en.cppreference.com/w/c/language)
+[![JS](https://skillicons.dev/icons?i=js&perline=3)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap&perline=3)](https://getbootstrap.com)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind&perline=3)](https://tailwindcss.com)
 
 
-[![postman](https://skillicons.dev/icons?i=postman&perline=3)](https://www.python.org)
-[![Figma](https://skillicons.dev/icons?i=figma&perline=3)]([https://www.python.org](https://www.figma.com/))
-[![sqlite](https://skillicons.dev/icons?i=sqlite&perline=3)](https://en.cppreference.com/w/c/language)
+[![postman](https://skillicons.dev/icons?i=postman&perline=3)](https://www.postman.com)
+[![Figma](https://skillicons.dev/icons?i=figma&perline=3)](https://www.figma.com)
+[![sqlite](https://skillicons.dev/icons?i=sqlite&perline=3)](https://www.sqlite.org)
 [![WordPress](https://skillicons.dev/icons?i=wordpress&perline=3)](https://wordpress.com)
-[![Oracle](https://go-skill-icons.vercel.app/api/icons?i=oracle&perline=3)]()
+[![Oracle](https://go-skill-icons.vercel.app/api/icons?i=oracle&perline=3)](https://www.oracle.com)
 <!-- [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) -->
 [![GIT](https://skillicons.dev/icons?i=git&perline=3)](https://git-scm.com/)
 [![Github](https://skillicons.dev/icons?i=github&perline=3)](https://github.com/)
-[![Vercel](https://skillicons.dev/icons?i=vercel&perline=3)](https://github.com/)
+[![Vercel](https://skillicons.dev/icons?i=vercel&perline=3)](https://vercel.com/)
 ### Github Stats:
 
-| <img width="750em" src="https://github-profile-trophy.vercel.app/?username=importbinayak&theme=onestar&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | <img  width="750em" src="https://github-readme-stats.vercel.app/api/top-langs?username=importbinayak&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Vikash's Most used lang" /> |
+| <img width="750em" src="https://github-profile-trophy.vercel.app/?username=importbinayak&theme=onestar&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | <img  width="750em" src="https://github-readme-stats.vercel.app/api/top-langs?username=importbinayak&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Binayak's Most used lang" /> |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                           <img  width="750em"   src="https://streak-stats.demolab.com?user=importbinayak&theme=vue-dark" alt="Binayak Dhungana Streak" />                                           |  <img width="750em" align="center" alt="binayak's Github stats"  src="https://github-readme-stats.vercel.app/api?username=importbinayak&show_icons=true&count_private=true&theme=vue-dark" />   |
+|                                           <img  width="750em"   src="https://streak-stats.demolab.com?user=importbinayak&theme=vue-dark" alt="Binayak Dhungana's Streak" />                                           |  <img width="750em" align="center" alt="binayak's Github stats"  src="https://github-readme-stats.vercel.app/api?username=importbinayak&show_icons=true&count_private=true&theme=vue-dark" />   |
 
 <!--### Github contributions:
 
